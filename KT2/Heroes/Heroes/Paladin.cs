@@ -11,16 +11,16 @@ public class Paladin : Hero, IMagicUser, IPhysicalFighter
 
     public override void UseAbility()
     {
-        Write($"Использована способность Удар грома");
+        Write("Использована способность Удар грома");
     }
 
     public void CastSpell()
     {
-        Write($"Прочитано заклинание");
+        Write("Прочитано заклинание");
     }
 
     public void Attack()
     {
-        Write($"Герой аттакует");
+        Write("Герой аттакует");
     }
 }

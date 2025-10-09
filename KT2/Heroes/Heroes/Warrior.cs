@@ -11,11 +11,11 @@ public class Warrior : Hero, IPhysicalFighter
 
     public override void UseAbility()
     {
-        Write($"Использована способность Клинок");
+        Write("Использована способность Клинок");
     }
 
     public void Attack()
     {
-        Write($"Герой аттакует");
+        Write("Герой аттакует");
     }
 }

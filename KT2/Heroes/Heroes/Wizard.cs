@@ -11,11 +11,11 @@ public class Wizard : Hero, IMagicUser
 
     public override void UseAbility()
     {
-        Write($"Использована способность Огневой шар");
+        Write("Использована способность Огневой шар");
     }
 
     void IMagicUser.CastSpell()
     {
-        Write($"Прочитано заклинание");
+        Write("Прочитано заклинание");
     }
 }
