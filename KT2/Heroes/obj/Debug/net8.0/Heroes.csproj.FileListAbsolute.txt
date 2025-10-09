@@ -1,0 +1,14 @@
+D:\Repositories\IThub\CSharpRepository\KT2\Heroes\bin\Debug\net8.0\Heroes.exe
+D:\Repositories\IThub\CSharpRepository\KT2\Heroes\bin\Debug\net8.0\Heroes.deps.json
+D:\Repositories\IThub\CSharpRepository\KT2\Heroes\bin\Debug\net8.0\Heroes.runtimeconfig.json
+D:\Repositories\IThub\CSharpRepository\KT2\Heroes\bin\Debug\net8.0\Heroes.dll
+D:\Repositories\IThub\CSharpRepository\KT2\Heroes\bin\Debug\net8.0\Heroes.pdb
+D:\Repositories\IThub\CSharpRepository\KT2\Heroes\obj\Debug\net8.0\Heroes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\IThub\CSharpRepository\KT2\Heroes\obj\Debug\net8.0\Heroes.AssemblyInfoInputs.cache
+D:\Repositories\IThub\CSharpRepository\KT2\Heroes\obj\Debug\net8.0\Heroes.AssemblyInfo.cs
+D:\Repositories\IThub\CSharpRepository\KT2\Heroes\obj\Debug\net8.0\Heroes.csproj.CoreCompileInputs.cache
+D:\Repositories\IThub\CSharpRepository\KT2\Heroes\obj\Debug\net8.0\Heroes.dll
+D:\Repositories\IThub\CSharpRepository\KT2\Heroes\obj\Debug\net8.0\refint\Heroes.dll
+D:\Repositories\IThub\CSharpRepository\KT2\Heroes\obj\Debug\net8.0\Heroes.pdb
+D:\Repositories\IThub\CSharpRepository\KT2\Heroes\obj\Debug\net8.0\Heroes.genruntimeconfig.cache
+D:\Repositories\IThub\CSharpRepository\KT2\Heroes\obj\Debug\net8.0\ref\Heroes.dll
