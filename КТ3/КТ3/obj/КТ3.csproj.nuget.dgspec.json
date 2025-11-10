@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IThub\\Programming\\C#\\КТ3\\КТ3\\КТ3.csproj": {}
+    "D:\\Repositories\\IThub\\CSharpRepository\\КТ3\\КТ3\\КТ3.csproj": {}
   },
   "projects": {
-    "D:\\IThub\\Programming\\C#\\КТ3\\КТ3\\КТ3.csproj": {
+    "D:\\Repositories\\IThub\\CSharpRepository\\КТ3\\КТ3\\КТ3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IThub\\Programming\\C#\\КТ3\\КТ3\\КТ3.csproj",
+        "projectUniqueName": "D:\\Repositories\\IThub\\CSharpRepository\\КТ3\\КТ3\\КТ3.csproj",
         "projectName": "КТ3",
-        "projectPath": "D:\\IThub\\Programming\\C#\\КТ3\\КТ3\\КТ3.csproj",
-        "packagesPath": "C:\\Users\\nbest\\.nuget\\packages\\",
-        "outputPath": "D:\\IThub\\Programming\\C#\\КТ3\\КТ3\\obj\\",
+        "projectPath": "D:\\Repositories\\IThub\\CSharpRepository\\КТ3\\КТ3\\КТ3.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositories\\IThub\\CSharpRepository\\КТ3\\КТ3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nbest\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
