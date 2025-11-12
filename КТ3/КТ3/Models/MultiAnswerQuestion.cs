@@ -11,12 +11,12 @@ public class MultiAnswerQuestion : Question
     /// Список ответов
     /// </summary>
     public IReadOnlyList<string> Answers { get; }
-    
-    
+
+
     /// <summary>
     /// Список индексов ответов
     /// </summary>
-    public List<int> AnswersIndexes { get; set; }
+    public List<int> AnswersIndexes { get; } = [];
 
     public MultiAnswerQuestion(string text, List<string> answers) : base(text)
     {

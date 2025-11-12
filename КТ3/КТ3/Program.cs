@@ -15,7 +15,7 @@ static class Program
                     singleAnswersQuestion.AnswerIndex= 2;
                     break;
                 case MultiAnswerQuestion multiAnswersQuestion:
-                    multiAnswersQuestion.AnswersIndexes = [1, 4];
+                    multiAnswersQuestion.AnswersIndexes.AddRange([1, 4]);
                     break;
                 case TextAnswerQuestion textAnswersQuestion:
                     textAnswersQuestion.Answer = "Билл Гейтс";
