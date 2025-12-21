@@ -61,10 +61,11 @@ public class FormControls
             c.Left = left;
             c.Top = top;
             c.Width = width;
-            c.Height = height;
+            
+            if((c is Button)) c.Height = height * 2;
             form.Controls.Add(c);
 
-            top += 25;
+            top += 40;
         }
     }
 
