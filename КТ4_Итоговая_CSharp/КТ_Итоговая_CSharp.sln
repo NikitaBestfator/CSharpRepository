@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "КТ4_Итоговая_CSharp", "КТ4_Итоговая_CSharp\КТ4_Итоговая_CSharp.csproj", "{2E41E796-D269-4974-9CE8-11409933CD53}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "КТ_Итоговая_CSharp", "КТ_Итоговая_CSharp\КТ_Итоговая_CSharp.csproj", "{2E41E796-D269-4974-9CE8-11409933CD53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
